@@ -16,3 +16,6 @@ Rio de Janeiro,RJ
 ## Para rodar o programa, basta rodar o script seguido com o arquivo das cidades ('brasil.in' no meu caso):
 
 python corona_brasil.py brasil.in
+
+
+Uma nota importante: Os dados são agrupados em semanas para diminuir flutuação, portanto o último ponto pode estar em uma semana incompleta e provavelmente será menor que os outros. Deve ser desconsiderado!

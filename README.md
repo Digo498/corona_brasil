@@ -18,4 +18,8 @@ Rio de Janeiro,RJ
 python corona_brasil.py brasil.in
 
 
-Uma nota importante: Os dados são agrupados em semanas para diminuir flutuação, portanto o último ponto pode estar em uma semana incompleta e provavelmente será menor que os outros. Deve ser desconsiderado!
+Notas importantes: 
+
+O gráfico do total do Brasil está incorreto por enquanto, será corrigido em breve
+
+Os dados são agrupados em semanas para diminuir flutuação, portanto o último ponto pode estar em uma semana incompleta e provavelmente será menor que os outros. Deve ser desconsiderado!

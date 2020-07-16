@@ -4,6 +4,7 @@
 - numpy
 - pandas
 - csv
+- pathlib
 
 
 ## Prepare um arquivo de entrada (por exemplo, 'brasil.in') com uma cidade e seu estada em cada uma das linhas. Exemplo:
@@ -17,9 +18,8 @@ Rio de Janeiro,RJ
 
 python corona_brasil.py brasil.in
 
+O programa cria uma pasta chamada 'plots', que contem todos os gráficos gerados.
 
-Notas importantes: 
-
-O gráfico do total do Brasil está incorreto por enquanto, será corrigido em breve
+## Notas importantes: 
 
 Os dados são agrupados em semanas para diminuir flutuação, portanto o último ponto pode estar em uma semana incompleta e provavelmente será menor que os outros. Deve ser desconsiderado!

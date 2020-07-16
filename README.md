@@ -1,4 +1,11 @@
-## Para utilizar o programa, é necessário ter os seguintes pacotes de python:
+# Informação
+
+Este programa em Python foi criado para gerar os arquivos mais atualizados sobre o avanço do Coronavírus nas cidades brasileiras, nos estados e no país como um todo.
+
+
+# Uso
+
+## Para utilizar o programa, é necessário ter Python >= 3.5 , e também os seguintes pacotes:
 - requests
 - matplotlib
 - numpy
